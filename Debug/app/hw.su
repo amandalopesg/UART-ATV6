@@ -1,0 +1,9 @@
+hw.c:22:6:hw_gpio_toggle	16	static
+hw.c:34:6:hw_timer_tick1ms	8	static
+hw.c:39:10:hw_timer_get_ms	8	static
+hw.c:44:6:hw_cpu_sleep	4	static,ignoring_inline_asm
+hw.c:49:6:HAL_GPIO_EXTI_Callback	16	static
+hw.c:76:6:HAL_UART_RxCpltCallback	16	static
+hw.c:82:6:hw_uart_tx_byte	16	static
+hw.c:88:6:hw_uart_tx_buffer	24	static
+hw.c:94:6:hw_init	8	static

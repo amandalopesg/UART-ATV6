@@ -1,0 +1,6 @@
+app.c:21:6:app_init	8	static
+app.c:29:6:app_tick1ms	4	static
+app.c:35:6:app_switch_interrupt	16	static
+app.c:48:6:app_put_byte	16	static
+app.c:59:6:app_get_byte	24	static
+app.c:72:6:app_loop	16	static
